@@ -28,3 +28,10 @@
 <div style="display: inline_block"><br/>
   <img align-"center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />    
   </div>
+
+### 🎮 Games
+<div style="display: inline_block"><br/>
+  <img align-"center" alt="Epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />    
+  <img align-"center" alt="PlayStation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img align-"center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</div>
