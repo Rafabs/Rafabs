@@ -1,13 +1,13 @@
 
 ### 🕹️Olá, Eu sou o Rafael Barbosa!
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](website:http://monip.org)
+[![Blog](https://img.shields.io/website-LAB-SOLUÇÕES-down-green-red/http/monip.org.svg)](website:http://labsolucoes.com.br)
 ![Proc](https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![Barbosa Github stats](https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula) ![Barbosa Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
 
-### Linguagens
+### 🚀 Linguagens
 <div style="display: inline_block"><br/>
   <img align-"center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />    
   <img align-"center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
