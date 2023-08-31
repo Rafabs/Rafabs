@@ -5,7 +5,7 @@
 
 ![Barbosa Github stats](https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
+![Barbosa Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
 
 ### Tecnologias usadas no dia a dia
 
