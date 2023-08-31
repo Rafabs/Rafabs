@@ -1,9 +1,15 @@
 
 ### 🕹️Olá, Eu sou o Rafael Barbosa!
 
-[![Blog](https://img.shields.io/website-LAB-SOLUÇÕES-down-green-red/http/monip.org.svg)](website:http://labsolucoes.com.br)
-![Proc](https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-b-3aa393129/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511960576140)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafael.barbosa.357)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/labort.solucoes/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](rafael_barbosa2@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafa.barbosa0015@gmail.com)
 
 ![Barbosa Github stats](https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula) ![Barbosa Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
 
@@ -24,6 +30,8 @@
   <img align-"center" alt="Adafruit" src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
   <img align-"center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
   <img align-"center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+  <img align-"center" alt="Proc" src="https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img align-"center" alt="Proc" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
 ### 🗄️Escritório
