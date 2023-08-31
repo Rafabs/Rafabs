@@ -2,7 +2,7 @@
 ### 🕹️Olá, Eu sou o Rafael Barbosa!
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](website:http://monip.org)
-[![Blog](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]
+![Blog](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ![Barbosa Github stats](https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula) ![Barbosa Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
 
