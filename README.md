@@ -3,6 +3,7 @@
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](website:http://monip.org)
 ![Proc](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![Barbosa Github stats](https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula) ![Barbosa Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
 
