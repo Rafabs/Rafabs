@@ -11,8 +11,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](rafael_barbosa2@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafa.barbosa0015@gmail.com)
 
-![Barbosa Github stats](https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula) ![Barbosa Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
-![Barbosa Github stats]("https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>)
+![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rafabs&show_icons=true&theme=dracula) ![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dracula)
 
 ### 🚀 Linguagens
 <div style="display: inline_block"><br/>
