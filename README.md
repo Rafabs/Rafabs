@@ -3,15 +3,15 @@
 
 <img align="right" src="https://github.com/Rafabs/Rafabs/blob/main/LEGO.gif" alt="Lego" width="150" height="150" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-b-3aa393129/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511960576140)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafael.barbosa.357)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/labort.solucoes/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](rafael_barbosa2@hotmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafa.barbosa0015@gmail.com)
+[![LinkedIn]()
+[![WhatsApp]()
+[![Facebook]()
+[![Instagram]()
+[![TikTok]()]()
+[![Discord]()]()
+[![Telegram]()]()
+[![Outlook]()
+[![Gmail]()
 
 ![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rafabs&show_icons=true&theme=dark) ![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dark)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rafabs)](https://github.com/anuraghazra/github-readme-stats)
