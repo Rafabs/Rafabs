@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/Rafabs/Rafabs/blob/main/LEGO.gif" alt="Lego" width="150" height="150" />
 
 ![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rafabs&show_icons=true&theme=dark) ![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dark)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rafabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rafabs)]
 
 ### 🚀 Linguagens
 <div style="display: inline_block"><br/>
