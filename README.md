@@ -3,7 +3,18 @@
 
 <img align="right" src="https://github.com/Rafabs/Rafabs/blob/main/LEGO.gif" alt="Lego" width="150" height="150" />
 
-![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rafabs&show_icons=true&theme=dark) ![Barbosa Github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafabs&show_icons=true&theme=dark)
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Rafabs&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=pt-br"
+    alt="Estatísticas do GitHub de Rafael"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafabs&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br"
+    alt="Linguagens mais utilizadas por Rafael"
+  />
+</div>
 
 ### 🚀 Linguagens
 <div style="display: inline_block"><br/>
